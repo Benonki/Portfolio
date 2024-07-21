@@ -65,7 +65,8 @@ color:#ffffff;
 font-weight:800;
 font-size:58px;
 text-shadow: 2px 2px black;
-}
+-webkit-text-stroke: 1px black; 
+text-stroke: 1px black; 
 }
 .proj{
 	margin:0.2%;
