@@ -72,15 +72,16 @@ text-stroke: 1px black;
 	margin:0.2%;
 	display:inline-block;
 }
-.sc{
-	width: 400px;
-	height: 220px;
-	border: 2px solid silver;
-	border-radius: 2px;
-	margin: auto;
-	float:left;
-	background-repeat:no-repeat;
-	background-size:cover;
+.sc {
+    width: 400px;
+    height: 220px;
+    border: 2px solid silver;
+    border-radius: 2px;
+    margin: auto;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    background-position: center; 
 }
 .sc h3{
 	opacity: 0;
