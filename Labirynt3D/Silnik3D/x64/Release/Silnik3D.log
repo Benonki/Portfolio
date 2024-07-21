@@ -1,0 +1,127 @@
+﻿  Engine3D.cpp
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(139,33): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(139,38): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(139,43): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(140,33): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(140,38): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(140,43): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(160,23): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(161,51): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(161,23): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(162,26): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(186,18): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(187,18): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(188,18): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(392,25): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(392,20): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(392,15): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(395,58): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(402,73): warning C4244: "argument": konwersja z "size_t" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(446,62): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(453,77): warning C4244: "argument": konwersja z "size_t" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(463,56): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(486,50): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(499,50): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(506,51): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(512,80): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(512,46): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(519,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(525,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(531,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(537,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(543,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(549,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(653,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(656,37): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(656,32): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(656,27): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(658,60): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(664,29): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(664,24): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(664,19): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(666,60): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(690,18): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(691,18): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(692,18): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1054,44): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1055,44): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1058,44): warning C4244: "-=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1059,44): warning C4244: "-=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1062,44): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1063,44): warning C4244: "-=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1066,44): warning C4244: "-=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1067,44): warning C4244: "+=": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1118,24): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1169,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1170,37): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1170,25): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1177,54): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1177,49): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1177,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1180,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1180,50): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1180,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1183,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1183,49): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1183,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1220,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1221,38): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1221,25): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1228,54): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1228,49): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1228,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1231,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1231,50): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1231,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1234,54): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1234,49): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1234,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1276,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1277,38): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1277,25): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1284,55): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1284,50): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1284,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1287,56): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1287,51): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1287,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1290,55): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1290,50): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1290,39): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1313,65): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1318,67): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1318,61): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1318,55): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1319,38): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1321,26): warning C4244: "=": konwersja z "time_t" do "clock_t", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1327,74): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1327,65): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1334,75): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1334,66): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1334,59): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1335,38): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1337,26): warning C4244: "=": konwersja z "time_t" do "clock_t", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1343,72): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1343,59): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1358,73): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1358,66): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1358,60): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1358,54): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1359,38): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1361,26): warning C4244: "=": konwersja z "time_t" do "clock_t", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Engine3D.cpp(1367,74): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Figures.cpp
+C:\Users\adria\Desktop\Labirynt3D\Figures.cpp(343,16): warning C4305: "=": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Figures.cpp(397,16): warning C4305: "=": obcięcie z "double" do "GLfloat"
+C:\Users\adria\Desktop\Labirynt3D\Figures.cpp(403,31): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\adria\Desktop\Labirynt3D\Figures.cpp(406,24): warning C4244: "inicjowanie": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Object3D.cpp
+  main.cpp
+  Trwa generowanie kodu
+  0 of 599 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Silnik3D.vcxproj -> C:\Users\adria\Desktop\Labirynt3D\x64\Release\Silnik3D.exe
+  C:\Users\adria\Desktop\Labirynt3D\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\x64\Release\openal32.dll
+  1 File(s) copied
