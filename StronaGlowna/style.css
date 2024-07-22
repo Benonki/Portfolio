@@ -15,8 +15,8 @@ body {
 }
 header {
     text-align: center;
-    background: url('tyl2.jpg') fixed;
-    padding: 1px 0 50px;
+    background: url('tyl.jpg') fixed;
+    padding: 35px 0 20px;
 }
 nav {
     font-size: 30px;
