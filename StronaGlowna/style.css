@@ -16,6 +16,7 @@ body {
 header {
     text-align: center;
     background: url('tyl2.jpg') fixed;
+    padding: 1px 0 30px;
 }
 nav {
     font-size: 30px;
