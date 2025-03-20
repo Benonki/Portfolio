@@ -15,7 +15,7 @@ body {
 }
 header {
     text-align: center;
-    background: url('tyl.png') fixed;
+    background: url('zdj/tyl.png') fixed;
     padding: 35px 0 20px;
 }
 nav {
@@ -101,13 +101,17 @@ a:hover {
     a.gor {
         display: inline-block;
         width: 100%;
+        font-size: 28px; 
     }
+    
     .sc {
-        width: 220px;
-        height: 220px;
+        width: 270px; 
+        height: 280px;
     }
+
     .sc h3 {
         opacity: 1;
         background: rgba(0,0,0, 0.2);
+        font-size: 22px;  
     }
 }
