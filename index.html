@@ -1,30 +1,189 @@
 <!DOCTYPE html>
-<html lang ="pl">
- <head>
-  <title>Portfolio Beniamin</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="author" content="Beniamin">
-  <meta name="description" content="Portfolio Beniamina">
-  <meta name="keywords" content="Beniamin, Informacje, Portfolio">
-  <meta charset="utf-8"/>
- <link rel = "stylesheet" href = "StronaGlowna/style.css">
- <link rel="shortcut icon" href="StronaGlowna/zdj/logo.png">
- </head>
- <body>
-   <header>
- <h1 id="ben">Portfolio<br/>Beniamin</h1>
- </header>
-  <nav>
- <a class ="gor" href="StronaGlowna/kontakt.html">Kontakt</a>
- <a class ="gor" href="index.html">O Mnie</a>
- <a class ="gor" href="StronaGlowna/projekty.html">Projekty</a>
- </nav>
-  <div class="dol">
- <h2>Witam! Znajdują się tutaj informacje o mnie.</h2>
- <h3>Mam na imię Beniamin. Uczę się na kierunku informatyki, w <a href="https://tu.kielce.pl/" target="_blank">Politechnice Świetokrzyskiej w Kielcach.</a></h3>
- <h3>Lubię słuchać muzyki, oglądać filmy oraz w wolnym czasie grać w piłkę nożną. </h3>
- <h3>Link do Profilu na Githubie: <a href="https://github.com/Benonki" target="_blank">Benonki</a></h3>
- <h3><img src="StronaGlowna/zdj/pilka.jpg" alt="pilka"/></h3>
- </div>
- </body>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Beniamin">
+    <meta name="description" content="Portfolio Beniamina">
+    <meta name="keywords" content="Beniamin, Informacje, Portfolio">
+    <title>Portfolio Beniamin</title>
+    <link rel="stylesheet" href="StronaGlowna/style.css">
+    <link rel="shortcut icon" href="StronaGlowna/logo.png">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Portfolio</div>
+            <ul class="nav-links">
+                <li><a href="#o-mnie">O mnie</a></li>
+                <li><a href="#projekty">Projekty</a></li>
+                <li><a href="#kontakt">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="o-mnie">
+        <div class="about-content">
+            <h1>Cześć, jestem Beniamin</h1>
+            <h2>Frontend Developer / Designer</h2>
+            <p>Jestem pasjonatem tworzenia nowoczesnych stron internetowych i aplikacji. Moją specjalizacją jest tworzenie intuicyjnych interfejsów użytkownika z naciskiem na doświadczenia użytkownika.</p>
+            <p>W wolnym czasie lubię eksperymentować z nowymi technologiami, uczestniczyć w projektach open-source i rozwijać swoje umiejętności.</p>
+            
+            <div class="skills">
+                <span class="skill">HTML5</span>
+                <span class="skill">CSS3</span>
+                <span class="skill">JavaScript</span>
+                <span class="skill">React</span>
+                <span class="skill">React Native</span>
+                <span class="skill">UI/UX Design</span>
+                <span class="skill">Responsive Design</span>
+            </div>
+        </div>
+    </section>
+
+    <section id="projekty">
+
+    <h2>Moje Projekty:</h2>
+    
+    <div class="projects-grid">
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/FitApp.png');"></div>
+            <div class="project-info">
+                <h3>Aplikacja Mobilna Fitness (JavaScript, React Native, Express, MongoDB)</h3>
+                <p>Aplikacja mobilna do śledzenia aktywności fizycznej, wykorzystująca React Native oraz MongoDB.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Fitness-app-mobile" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/Cars.png');"></div>
+            <div class="project-info">
+                <h3>Aplikacja Wypożyczalni Samochodów (TypeScript, React)</h3>
+                <p>Platforma do wypożyczania samochodów, stworzona w React i TypeScript.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Car-rental-app" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/arkanoid.png');"></div>
+            <div class="project-info">
+                <h3>Arkanoid (Java, LibGDX)</h3>
+                <p>Gra typu Arkanoid stworzona w Javie z użyciem biblioteki LibGDX.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Arkanoid" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/Statki.png');"></div>
+            <div class="project-info">
+                <h3>Gra w Statki (C++, SFML)</h3>
+                <p>Klasyczna gra w statki zrealizowana w C++ i bibliotece SFML.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Gra-W-Statki" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/Library.png');"></div>
+            <div class="project-info">
+                <h3>Aplikacja Dla Biblioteki (Java, Oracle)</h3>
+                <p>Aplikacja służąca do zarządzania biblioteką, stworzona w Javie z bazą danych Oracle.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Library-app" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/Balls.png');"></div>
+            <div class="project-info">
+                <h3>Symulacja Perfekcyjnych Kul (C#, WinForms)</h3>
+                <p>Symulacja fizyki perfekcyjnych kul w C# i WinForms.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Balls-visualization" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/silnik2d.PNG');"></div>
+            <div class="project-info">
+                <h3>Silnik 2D (C++, SFML)</h3>
+                <p>Silnik do gier 2D stworzony w C++ z wykorzystaniem biblioteki SFML.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Silnik-2D" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/Silnik3d.PNG');"></div>
+            <div class="project-info">
+                <h3>Silnik 3D (C++, OpenGL)</h3>
+                <p>Silnik do gier 3D zrealizowany w C++ z użyciem OpenGL.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Silnik-3D" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/labirynt.PNG');"></div>
+            <div class="project-info">
+                <h3>Labirynt 3D (C++, OpenGL)</h3>
+                <p>Generator labiryntów 3D stworzony w C++ i OpenGL.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Labirynt-3D" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/Cinema.png');"></div>
+            <div class="project-info">
+                <h3>Aplikacja Mobilna Cinema (JavaScript, React Native)</h3>
+                <p>Aplikacja mobilna do przeglądania filmów i informacji o nich, stworzona w React Native.</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/AbsoluteCinema-mobile-app" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="project-card">
+            <div class="project-image" style="background-image: url('StronaGlowna/sc/quiz.png');"></div>
+            <div class="project-info">
+                <h3>Quiz w CMD (C)</h3>
+                <p>Prosty quiz stworzony w C, uruchamiany w terminalu (CMD).</p>
+                <div class="project-links">
+                    <a href="https://github.com/Benonki/Quiz-CMD" target="_blank">Kod źródłowy</a>
+                </div>
+            </div>
+        </div>
+		
+		
+    </div>
+    </section>
+
+    <section id="kontakt">
+        <h2>Kontakt</h2>
+        <p>Jeśli chcesz się ze mną skontaktować, napisz śmiało:</p>
+        
+        <div class="contact-info">
+            <p>Email: <a href="mailto:beniaminz10@tlen.pl">beniaminz10@tlen.pl</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/beniamin-%C5%BCak-3b887a31a/" target="_blank">linkedin.com/Beniamin</a></p>
+            <p>GitHub: <a href="https://github.com/Benonki" target="_blank">github.com/Benonki</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Benonki Portfolio. Wszelkie prawa zastrzeżone.</p>
+    </footer>
+</body>
 </html>
