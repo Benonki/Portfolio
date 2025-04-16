@@ -221,8 +221,8 @@ footer {
 }
 
 #doswiadczenie {
+    background-color: var(--primary-color);
     padding: 60px 20px;
-    background-color: #ffffff;
     max-width: 900px;
     margin: 0 auto;
 }
@@ -231,7 +231,7 @@ footer {
     text-align: center;
     font-size: 2.2em;
     margin-bottom: 40px;
-    color: #222;
+    color: var(--secondary-color);
 }
 
 .experience-list {
@@ -243,7 +243,6 @@ footer {
 .experience-item {
     border-left: 4px solid #0077cc;
     padding-left: 20px;
-    background: #f9f9f9;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
