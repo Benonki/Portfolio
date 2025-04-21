@@ -83,7 +83,7 @@ nav {
 }
 
 .hero {
-    background-color: var(--secondary-color);
+    background-color: var(--dark-color);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -123,6 +123,14 @@ nav {
     font-weight: 600;
 }
 
+.button-group {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 .btn:hover {
     background-color: #00a0b5;
     transform: translateY(-3px);
@@ -155,39 +163,6 @@ section {
     width: 100px;
     height: 3px;
     background-color: var(--primary-color);
-}
-
-.about {
-    background-color: var(--dark-color);
-}
-
-.about-content {
-    display: flex;
-    align-items: center;
-	justify-content: center;
-    gap: 50px;
-}
-
-.about-text {
-	max-width: 800px;
-	text-align: center;
-    flex: 1;
-}
-
-.about-text .btn {
-    margin-top: 20px;
-    display: inline-block;
-}
-
-.about-text h3 {
-    font-size: 24px;
-    margin-bottom: 20px;
-    color: white;
-}
-
-.about-text p {
-    margin-bottom: 15px;
-    color: var(--text-color);
 }
 
 .skills {
