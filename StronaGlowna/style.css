@@ -171,11 +171,31 @@ section {
 
 .skills-content {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 30px;
+    justify-content: center;
+}
+
+@media (min-width: 1000px) {
+    .skills-content {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 600px) and (max-width: 999px) {
+    .skills-content {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 599px) {
+    .skills-content {
+        grid-template-columns: 1fr;
+    }
 }
 
 .skill-card {
+	margin: 0 auto;
+	max-width: 300px;
     background-color: var(--card-bg);
     padding: 30px;
     border-radius: 10px;
