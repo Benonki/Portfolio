@@ -47,7 +47,7 @@ header {
 
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
@@ -65,10 +65,14 @@ nav {
 .nav-links {
     list-style: none;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
 }
 
 .nav-links li {
-    margin-left: 30px;
+    margin-left: 0;
 }
 
 .nav-links a {
